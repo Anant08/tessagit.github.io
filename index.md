@@ -1,5 +1,6 @@
 ---
-Tessa resume 
+Title: Tessa resume 
+Layout: Default
 ---
 
 ###Resume 
